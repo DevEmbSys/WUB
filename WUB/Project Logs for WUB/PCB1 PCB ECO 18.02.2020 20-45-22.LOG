@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Sheet1 Member=D3
+Removed Member From Class: ClassName=Sheet1 Member=D4
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Added Room: Name=Sheet1

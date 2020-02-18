@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Added Component: Designator=D3(QFN14)
+Add component. Clean all parameters for all variants
