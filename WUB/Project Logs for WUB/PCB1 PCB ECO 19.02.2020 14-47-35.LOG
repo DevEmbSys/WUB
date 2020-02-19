@@ -1,0 +1,25 @@
+Added Component: Designator=*?(PinConnect)
+Added Pin To Net: NetName=GSM_1V8 Pin=D2-1
+Added Pin To Net: NetName=GSM_TX Pin=D2-2
+Added Pin To Net: NetName=GSM_RX Pin=D2-3
+Added Pin To Net: NetName=GSM_RTS Pin=D2-4
+Added Pin To Net: NetName=GSM_DTR Pin=D2-5
+Added Pin To Net: NetName=GND Pin=D2-7
+Added Pin To Net: NetName=GSM_1V8 Pin=D2-8
+Added Pin To Net: NetName=3V3 Pin=D2-14
+Added Pin To Net: NetName=MPU_DTR Pin=D2-10
+Added Pin To Net: NetName=MPU_DTR Pin=D3-14
+Added Net: Name=MPU_DTR
+Added Pin To Net: NetName=MPU_RTS Pin=D2-11
+Added Pin To Net: NetName=MPU_RTS Pin=D3-8
+Added Net: Name=MPU_RTS
+Added Pin To Net: NetName=MPU_RX Pin=D2-13
+Added Pin To Net: NetName=MPU_RX Pin=D3-6
+Added Net: Name=MPU_RX
+Added Pin To Net: NetName=MPU_TX Pin=D2-12
+Added Pin To Net: NetName=MPU_TX Pin=D3-7
+Added Net: Name=MPU_TX
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=D3-13
+Added Net: Name=Net*?_1

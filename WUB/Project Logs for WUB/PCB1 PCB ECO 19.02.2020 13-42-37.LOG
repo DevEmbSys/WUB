@@ -1,0 +1,3 @@
+Added Component: Designator=*?(PinConnect)
+Added Pin To Net: NetName=GND Pin=*?-1
+Added Pin To Net: NetName=GND Pin=*?-1

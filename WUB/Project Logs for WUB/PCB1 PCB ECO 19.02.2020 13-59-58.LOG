@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=*3 NewDesignator=*6
+Change Component Designator: OldDesignator=*4 NewDesignator=*3
+Change Component Designator: OldDesignator=*5 NewDesignator=*4
+Change Component Designator: OldDesignator=*? NewDesignator=*5
+Change Component Designator: OldDesignator=*? NewDesignator=*7
+Change Component Designator: OldDesignator=*? NewDesignator=*8
+Change Component Designator: OldDesignator=*? NewDesignator=*9
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*6_1
+Change Net Name : Old Net Name=Net*?_1 New Net Name=Net*9_1
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=D3-16
+Added Net: Name=Net*7_1
+Added Pin To Net: NetName=Net*8_1 Pin=*8-1
+Added Pin To Net: NetName=Net*8_1 Pin=*8-1
+Added Pin To Net: NetName=Net*8_1 Pin=D3-17
+Added Net: Name=Net*8_1

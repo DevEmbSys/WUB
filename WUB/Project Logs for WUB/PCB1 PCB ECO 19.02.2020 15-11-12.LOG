@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=Net*12_1 Pin=D?-28
+Added Pin To Net: NetName=Net*12_1 Pin=D?-23

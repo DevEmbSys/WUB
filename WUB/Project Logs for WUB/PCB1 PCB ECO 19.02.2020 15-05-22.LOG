@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=3V3 Pin=D3-4
+Removed Pin From Net: NetName=Net*1_1 Pin=D3-5
+Removed Pin From Net: NetName=MPU_RX Pin=D3-6
+Removed Pin From Net: NetName=MPU_TX Pin=D3-7
+Removed Pin From Net: NetName=MPU_RTS Pin=D3-8
+Removed Pin From Net: NetName=3V3 Pin=D3-9
+Removed Pin From Net: NetName=Net*10_1 Pin=D3-13
+Removed Pin From Net: NetName=MPU_DTR Pin=D3-14
+Removed Pin From Net: NetName=Net*11_1 Pin=D3-15
+Removed Pin From Net: NetName=Net*12_1 Pin=D3-16
+Removed Pin From Net: NetName=Net*13_1 Pin=D3-17
+Removed Pin From Net: NetName=Net*14_1 Pin=D3-18
+Removed Pin From Net: NetName=GND Pin=D3-20
+Removed Pin From Net: NetName=3V3 Pin=D3-25
+Removed Pin From Net: NetName=GSM_PWR Pin=D3-26
+Removed Pin From Net: NetName=Net*3_1 Pin=D3-27
+Removed Pin From Net: NetName=Net*2_1 Pin=D3-28
+Removed Pin From Net: NetName=GND Pin=D3-29
+Removed Pin From Net: NetName=3V3 Pin=D3-32
+Removed Pin From Net: NetName=GND Pin=D3-33
+Added Component: Designator=D?(QFN48)
+Added Pin To Net: NetName=3V3 Pin=D?-4
+Added Pin To Net: NetName=Net*1_1 Pin=D?-5
+Added Pin To Net: NetName=Net*2_1 Pin=D?-6
+Added Pin To Net: NetName=Net*3_1 Pin=D?-7
+Added Pin To Net: NetName=MPU_RX Pin=D?-8
+Added Pin To Net: NetName=MPU_TX Pin=D?-9
+Added Pin To Net: NetName=MPU_RTS Pin=D?-10
+Added Pin To Net: NetName=3V3 Pin=D?-13
+Added Pin To Net: NetName=Net*10_1 Pin=D?-15
+Added Pin To Net: NetName=MPU_DTR Pin=D?-16
+Added Pin To Net: NetName=Net*11_1 Pin=D?-17
+Added Pin To Net: NetName=GSM_PWR Pin=D?-18
+Added Pin To Net: NetName=Net*12_1 Pin=D?-20
+Added Pin To Net: NetName=Net*13_1 Pin=D?-21
+Added Pin To Net: NetName=Net*14_1 Pin=D?-22
+Added Pin To Net: NetName=GND Pin=D?-31
+Added Pin To Net: NetName=3V3 Pin=D?-36
+Added Pin To Net: NetName=GND Pin=D?-45
+Added Pin To Net: NetName=3V3 Pin=D?-48
+Added Pin To Net: NetName=GND Pin=D?-49
+Added Pin To Net: NetName=NetD?_11 Pin=D?-11
+Added Pin To Net: NetName=NetD?_11 Pin=R2-1
+Added Net: Name=NetD?_11
+Added Pin To Net: NetName=NetD?_12 Pin=D?-12
+Added Pin To Net: NetName=NetD?_12 Pin=R3-1
+Added Net: Name=NetD?_12
+Added Pin To Net: NetName=NetD?_14 Pin=D?-14
+Added Pin To Net: NetName=NetD?_14 Pin=R4-1
+Added Net: Name=NetD?_14
+Added Pin To Net: NetName=NetD?_30 Pin=D?-30
+Added Pin To Net: NetName=NetD?_30 Pin=J2-1
+Added Net: Name=NetD?_30
