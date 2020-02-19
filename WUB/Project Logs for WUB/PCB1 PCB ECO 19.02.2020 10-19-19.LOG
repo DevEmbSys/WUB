@@ -1,0 +1,23 @@
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Pin To Net: NetName=ESIM_RST Pin=SB?-1
+Added Pin To Net: NetName=ESIM_VDD Pin=SB?-1
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=SB?-1
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=SB?-1
+Added Pin To Net: NetName=SIM_CLK Pin=SB?-1
+Added Pin To Net: NetName=SIM_RST Pin=SB?-1
+Added Pin To Net: NetName=SIM_VDD Pin=SB?-1
+Added Pin To Net: NetName=ESIM_DATA Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_RST Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_RST Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=SB?-2
+Added Pin To Net: NetName=SIM_DATA Pin=SB?-2

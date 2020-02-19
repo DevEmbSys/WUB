@@ -1,0 +1,7 @@
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=T1-2
+Added Pin To Net: NetName=GSM_PWR Pin=D2-6
+Added Pin To Net: NetName=GSM_PWR Pin=R?-2
+Added Pin To Net: NetName=GSM_PWR Pin=T1-1
+Added Net: Name=GSM_PWR

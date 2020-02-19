@@ -1,0 +1,55 @@
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=ESIM_CLK Pin=D4-6
+Added Net: Name=ESIM_CLK
+Added Pin To Net: NetName=ESIM_DATA Pin=D4-3
+Added Pin To Net: NetName=ESIM_DATA Pin=SB?-2
+Added Net: Name=ESIM_DATA
+Added Pin To Net: NetName=ESIM_RST Pin=D4-7
+Added Pin To Net: NetName=ESIM_RST Pin=SB?-1
+Added Net: Name=ESIM_RST
+Added Pin To Net: NetName=ESIM_VDD Pin=D4-8
+Added Pin To Net: NetName=ESIM_VDD Pin=SB?-1
+Added Net: Name=ESIM_VDD
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=D1-16
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=SB?-2
+Added Net: Name=GSM_SIM_CLK
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=D1-15
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=SB?-1
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=SB?-1
+Added Net: Name=GSM_SIM_DATA
+Added Pin To Net: NetName=GSM_SIM_DET Pin=D1-14
+Added Net: Name=GSM_SIM_DET
+Added Pin To Net: NetName=GSM_SIM_RST Pin=D1-17
+Added Pin To Net: NetName=GSM_SIM_RST Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_RST Pin=SB?-2
+Added Net: Name=GSM_SIM_RST
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=D1-18
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=SB?-2
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=SB?-2
+Added Net: Name=GSM_SIM_VDD
+Added Pin To Net: NetName=SIM_CLK Pin=D5-6
+Added Pin To Net: NetName=SIM_CLK Pin=SB?-1
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DATA Pin=D5-3
+Added Pin To Net: NetName=SIM_DATA Pin=SB?-2
+Added Net: Name=SIM_DATA
+Added Pin To Net: NetName=SIM_RST Pin=D5-7
+Added Pin To Net: NetName=SIM_RST Pin=SB?-1
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=D5-8
+Added Pin To Net: NetName=SIM_VDD Pin=SB?-1
+Added Net: Name=SIM_VDD

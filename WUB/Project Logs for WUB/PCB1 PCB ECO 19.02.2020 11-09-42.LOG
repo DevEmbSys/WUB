@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=J2-GND
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB3
+Change Component Designator: OldDesignator=SB? NewDesignator=SB4
+Change Component Designator: OldDesignator=SB? NewDesignator=SB5
+Change Component Designator: OldDesignator=SB? NewDesignator=SB6
+Change Component Designator: OldDesignator=SB? NewDesignator=SB7
+Change Component Designator: OldDesignator=SB? NewDesignator=SB8
+Added Pin To Net: NetName=NetD3_19 Pin=D3-19
+Added Pin To Net: NetName=NetD3_19 Pin=J2-1
+Added Net: Name=NetD3_19

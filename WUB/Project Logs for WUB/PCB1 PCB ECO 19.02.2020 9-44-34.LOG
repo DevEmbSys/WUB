@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=D2-20
+Added Pin To Net: NetName=GND Pin=D2-29
+Added Pin To Net: NetName=GND Pin=D2-33
+Added Pin To Net: NetName=3V3 Pin=D2-9
+Added Pin To Net: NetName=3V3 Pin=D2-25
+Added Pin To Net: NetName=3V3 Pin=D2-32
+Added Net: Name=3V3
