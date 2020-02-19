@@ -1,0 +1,4 @@
+Added Component: Designator=SB?(SB)
+Added Pin To Net: NetName=NetC2_2 Pin=SB?-2
+Added Pin To Net: NetName=MEMS_VDD Pin=D4-28
+Added Net: Name=MEMS_VDD

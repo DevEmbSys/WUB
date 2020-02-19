@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D3-5
+Added Pin To Net: NetName=MEMS_INT1 Pin=D3-12
+Added Pin To Net: NetName=MEMS_INT1 Pin=D4-15
+Added Net: Name=MEMS_INT1
+Added Pin To Net: NetName=MEMS_INT2 Pin=D3-11
+Added Pin To Net: NetName=MEMS_INT2 Pin=D4-17
+Added Net: Name=MEMS_INT2
+Added Pin To Net: NetName=MEMS_SCL Pin=D3-1
+Added Pin To Net: NetName=MEMS_SCL Pin=D4-11
+Added Net: Name=MEMS_SCL
+Added Pin To Net: NetName=MEMS_SDA Pin=D3-4
+Added Pin To Net: NetName=MEMS_SDA Pin=D4-14
+Added Net: Name=MEMS_SDA
+Added Pin To Net: NetName=MEMS_SDO Pin=D3-3
+Added Pin To Net: NetName=MEMS_SDO Pin=D4-12
+Added Net: Name=MEMS_SDO
