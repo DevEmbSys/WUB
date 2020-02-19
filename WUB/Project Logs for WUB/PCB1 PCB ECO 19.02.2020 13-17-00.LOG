@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Added Component: Designator=*2(PinConnect)
+Added Component: Designator=*3(PinConnect)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=D3-6
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=D3-7
+Added Net: Name=Net*2_1
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=Net*3_1 Pin=*3-1
+Added Pin To Net: NetName=Net*3_1 Pin=D3-8
+Added Net: Name=Net*3_1
