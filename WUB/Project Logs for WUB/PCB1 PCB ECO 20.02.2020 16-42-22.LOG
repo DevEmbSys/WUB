@@ -1,0 +1,3 @@
+Added Component: Designator=SB2(SB)
+Added Pin To Net: NetName=MEMS_INT1 Pin=SB2-1
+Added Pin To Net: NetName=NetD3_11 Pin=SB2-2

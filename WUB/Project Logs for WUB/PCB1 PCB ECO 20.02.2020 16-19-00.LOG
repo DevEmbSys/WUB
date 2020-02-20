@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GSM_PWR Pin=D1-39
+Removed Pin From Net: NetName=3V3 Pin=D4-4
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D1-39
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D4-4
+Added Net: Name=GSM_PWRKEY
