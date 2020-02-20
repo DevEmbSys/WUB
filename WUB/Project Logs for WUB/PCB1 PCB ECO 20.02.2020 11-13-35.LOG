@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=3V3 Pin=D4-4
+Removed Pin From Net: NetName=Net*3_1 Pin=D4-5
+Removed Pin From Net: NetName=Net*2_1 Pin=D4-6
+Removed Pin From Net: NetName=Net*1_1 Pin=D4-7
+Removed Pin From Net: NetName=MPU_RX Pin=D4-8
+Removed Pin From Net: NetName=MPU_TX Pin=D4-9
+Removed Pin From Net: NetName=MPU_RTS Pin=D4-10
+Removed Pin From Net: NetName=MEMS_SCL Pin=D4-11
+Removed Pin From Net: NetName=MEMS_SDO Pin=D4-12
+Removed Pin From Net: NetName=3V3 Pin=D4-13
+Removed Pin From Net: NetName=MEMS_SDA Pin=D4-14
+Removed Pin From Net: NetName=MEMS_INT1 Pin=D4-15
+Removed Pin From Net: NetName=MPU_DTR Pin=D4-16
+Removed Pin From Net: NetName=MEMS_INT2 Pin=D4-17
+Removed Pin From Net: NetName=GSM_PWR Pin=D4-18
+Removed Pin From Net: NetName=Net*10_1 Pin=D4-22
+Removed Pin From Net: NetName=Net*12_1 Pin=D4-24
+Removed Pin From Net: NetName=Net*13_1 Pin=D4-25
+Removed Pin From Net: NetName=Net*14_1 Pin=D4-26
+Removed Pin From Net: NetName=MEMS_CS Pin=D4-27
+Removed Pin From Net: NetName=MEMS_VDD Pin=D4-28
+Removed Pin From Net: NetName=GND Pin=D4-31
+Removed Pin From Net: NetName=3V3 Pin=D4-36
+Removed Pin From Net: NetName=GND Pin=D4-45
+Removed Pin From Net: NetName=3V3 Pin=D4-48
+Removed Pin From Net: NetName=GND Pin=D4-49
+Added Component: Designator=D?(QFN32_nrf52811)
+Added Pin To Net: NetName=3V3 Pin=D?-4
+Added Pin To Net: NetName=Net*3_1 Pin=D?-5
+Added Pin To Net: NetName=3V3 Pin=D?-9
+Added Pin To Net: NetName=Net*12_1 Pin=D?-16
+Added Pin To Net: NetName=Net*13_1 Pin=D?-17
+Added Pin To Net: NetName=Net*14_1 Pin=D?-18
+Added Pin To Net: NetName=GND Pin=D?-20
+Added Pin To Net: NetName=Net*10_1 Pin=D?-22
+Added Pin To Net: NetName=3V3 Pin=D?-25
+Added Pin To Net: NetName=Net*2_1 Pin=D?-27
+Added Pin To Net: NetName=Net*1_1 Pin=D?-28
+Added Pin To Net: NetName=GND Pin=D?-29
+Added Pin To Net: NetName=3V3 Pin=D?-32
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R3-1
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_19 Pin=D?-19
+Added Pin To Net: NetName=NetD?_19 Pin=J2-1
+Added Net: Name=NetD?_19
+Added Pin To Net: NetName=NetD?_21 Pin=D?-21
+Added Pin To Net: NetName=NetD?_21 Pin=R4-1
+Added Net: Name=NetD?_21

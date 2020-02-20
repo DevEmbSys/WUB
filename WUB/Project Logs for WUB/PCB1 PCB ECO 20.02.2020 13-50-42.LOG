@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=*7 NewDesignator=*10
+Change Component Designator: OldDesignator=*9 NewDesignator=*11
+Change Component Designator: OldDesignator=*10 NewDesignator=*12
+Change Component Designator: OldDesignator=*11 NewDesignator=*13
+Change Component Designator: OldDesignator=*12 NewDesignator=*7
+Change Component Designator: OldDesignator=*13 NewDesignator=*8
+Change Component Designator: OldDesignator=*14 NewDesignator=*9
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=SB2 NewDesignator=SB3
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB7 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB11
+Added Component: Designator=SB2(SB)
+Added Pin To Net: NetName=MEMS_INT1 Pin=*11-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=*11-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=D4-16
+Added Pin To Net: NetName=MEMS_INT1 Pin=SB2-1
+Change Net Name : Old Net Name=Net*7_1 New Net Name=Net*10_1
+Change Net Name : Old Net Name=Net*10_1 New Net Name=Net*12_1
+Change Net Name : Old Net Name=Net*11_1 New Net Name=Net*13_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Added Pin To Net: NetName=NetD3_11 Pin=D3-11
+Added Pin To Net: NetName=NetD3_11 Pin=SB2-2
+Added Net: Name=NetD3_11

@@ -1,0 +1,52 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=*3
+Change Component Designator: OldDesignator=*3 NewDesignator=*1
+Change Component Designator: OldDesignator=*4 NewDesignator=*12
+Change Component Designator: OldDesignator=*5 NewDesignator=*13
+Change Component Designator: OldDesignator=*6 NewDesignator=*14
+Change Component Designator: OldDesignator=*7 NewDesignator=*4
+Change Component Designator: OldDesignator=*8 NewDesignator=*5
+Change Component Designator: OldDesignator=*9 NewDesignator=*6
+Change Component Designator: OldDesignator=*10 NewDesignator=*7
+Change Component Designator: OldDesignator=*11 NewDesignator=*8
+Change Component Designator: OldDesignator=*12 NewDesignator=*9
+Change Component Designator: OldDesignator=*13 NewDesignator=*10
+Change Component Designator: OldDesignator=*14 NewDesignator=*11
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=SB2 NewDesignator=SB3
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB4 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB7 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Added Component: Designator=C3(C0402)
+Added Component: Designator=C4(C0402)
+Added Component: Designator=XTAL1(NX2012SA)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Change Net Name : Old Net Name=Net*1_1 New Net Name=Net*3_1
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*1_1
+Change Net Name : Old Net Name=Net*7_1 New Net Name=Net*4_1
+Change Net Name : Old Net Name=Net*8_1 New Net Name=Net*5_1
+Change Net Name : Old Net Name=Net*9_1 New Net Name=Net*6_1
+Change Net Name : Old Net Name=Net*10_1 New Net Name=Net*7_1
+Change Net Name : Old Net Name=Net*11_1 New Net Name=Net*8_1
+Change Net Name : Old Net Name=Net*12_1 New Net Name=Net*9_1
+Change Net Name : Old Net Name=Net*13_1 New Net Name=Net*10_1
+Change Net Name : Old Net Name=Net*14_1 New Net Name=Net*11_1
+Change Net Name : Old Net Name=NetD?_11 New Net Name=NetD4_11
+Change Net Name : Old Net Name=NetD?_12 New Net Name=NetD4_12
+Change Net Name : Old Net Name=NetD?_13 New Net Name=NetD4_13
+Change Net Name : Old Net Name=NetD?_19 New Net Name=NetD4_19
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=D4-2
+Added Pin To Net: NetName=NetC3_2 Pin=XTAL1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=D4-3
+Added Pin To Net: NetName=NetC4_2 Pin=XTAL1-1
+Added Net: Name=NetC4_2

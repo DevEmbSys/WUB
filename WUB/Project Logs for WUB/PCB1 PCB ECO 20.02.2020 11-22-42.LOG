@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Net*10_1 Pin=D?-12
+Removed Pin From Net: NetName=NetD?_11 Pin=R4-1
+Added Pin To Net: NetName=Net*10_1 Pin=D?-14
+Added Pin To Net: NetName=NetD?_11 Pin=R2-1
+Added Pin To Net: NetName=Net*11_1 Pin=*11-1
+Added Pin To Net: NetName=Net*11_1 Pin=*11-1
+Added Pin To Net: NetName=Net*11_1 Pin=D?-15
+Added Net: Name=Net*11_1
+Added Pin To Net: NetName=NetD?_12 Pin=D?-12
+Added Pin To Net: NetName=NetD?_12 Pin=R3-1
+Added Net: Name=NetD?_12
+Added Pin To Net: NetName=NetD?_13 Pin=D?-13
+Added Pin To Net: NetName=NetD?_13 Pin=R4-1
+Added Net: Name=NetD?_13

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=D4-5
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Added Component: Designator=R2(R0402)
+Added Component: Designator=R3(R0402)
+Added Component: Designator=VT1(CSD17483F4)
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=Net*1_1 Pin=VT1-3
+Added Pin To Net: NetName=NetD4_5 Pin=D4-5
+Added Pin To Net: NetName=NetD4_5 Pin=R3-2
+Added Net: Name=NetD4_5
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-1
+Added Net: Name=NetR2_2
