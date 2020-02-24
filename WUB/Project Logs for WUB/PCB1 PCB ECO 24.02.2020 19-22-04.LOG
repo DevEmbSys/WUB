@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=J2-GND
+Added Component: Designator=D4(QFN32_nrf52811)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC10_2 Pin=D4-1
+Added Pin To Net: NetName=NetC3_2 Pin=D4-2
+Added Pin To Net: NetName=NetC4_2 Pin=D4-3
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D4-4
+Added Pin To Net: NetName=NetD4_5 Pin=D4-5
+Added Pin To Net: NetName=MPU_TX Pin=D4-6
+Added Pin To Net: NetName=MPU_RX Pin=D4-7
+Added Pin To Net: NetName=GSM_PWR Pin=D4-8
+Added Pin To Net: NetName=3V3 Pin=D4-9
+Added Pin To Net: NetName=MEMS_VDD Pin=D4-10
+Added Pin To Net: NetName=NetD4_11 Pin=D4-11
+Added Pin To Net: NetName=NetD4_12 Pin=D4-12
+Added Pin To Net: NetName=NetD4_13 Pin=D4-13
+Added Pin To Net: NetName=Net*10_1 Pin=D4-14
+Added Pin To Net: NetName=MEMS_SCL Pin=D4-15
+Added Pin To Net: NetName=MEMS_INT1 Pin=D4-16
+Added Pin To Net: NetName=Net*12_1 Pin=D4-17
+Added Pin To Net: NetName=Net*13_1 Pin=D4-18
+Added Pin To Net: NetName=NetD4_19 Pin=D4-19
+Added Pin To Net: NetName=GND Pin=D4-20
+Added Pin To Net: NetName=NetC9_2 Pin=D4-22
+Added Pin To Net: NetName=NetC5_2 Pin=D4-23
+Added Pin To Net: NetName=NetC7_2 Pin=D4-24
+Added Pin To Net: NetName=3V3 Pin=D4-25
+Added Pin To Net: NetName=MEMS_SDA Pin=D4-26
+Added Pin To Net: NetName=Net*2_1 Pin=D4-27
+Added Pin To Net: NetName=Net*3_1 Pin=D4-28
+Added Pin To Net: NetName=GND Pin=D4-29
+Added Pin To Net: NetName=NetC8_2 Pin=D4-30
+Added Pin To Net: NetName=3V3 Pin=D4-32

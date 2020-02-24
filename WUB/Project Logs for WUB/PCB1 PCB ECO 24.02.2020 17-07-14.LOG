@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=D4-33
+Removed Pin From Net: NetName=GND Pin=J2-GND
+Change Component Comment : Designator=C4 Old Comment=12 New Comment=12p

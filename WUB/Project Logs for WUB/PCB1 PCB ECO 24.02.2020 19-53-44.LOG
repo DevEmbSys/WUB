@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=*9-1
+Removed Pin From Net: NetName=GND Pin=*9-1
+Removed Pin From Net: NetName=GND Pin=D4-33
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*10-1
+Added Pin To Net: NetName=GND Pin=*10-1
+Added Pin To Net: NetName=Net*9_1 Pin=*9-1
+Added Pin To Net: NetName=Net*9_1 Pin=*9-1
+Added Pin To Net: NetName=Net*9_1 Pin=R?-2
+Added Net: Name=Net*9_1
+Added Pin To Net: NetName=NetD4_14 Pin=D4-14
+Added Pin To Net: NetName=NetD4_14 Pin=R?-1
+Added Net: Name=NetD4_14

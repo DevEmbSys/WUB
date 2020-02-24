@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=D4-33
+Added Component: Designator=*?(PinConnect)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=*?-1
+Added Pin To Net: NetName=3V3 Pin=*?-1
