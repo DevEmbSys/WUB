@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VBAT Pin=D2-2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Added Component: Designator=D2(LL4148)
+Added Pin To Net: NetName=VBAT Pin=D2-2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD4_11 New Net Name=NetD5_11
+Change Net Name : Old Net Name=NetD5_5 New Net Name=NetD6_5
+Change Net Name : Old Net Name=NetD5_11 New Net Name=NetD6_11
+Change Net Name : Old Net Name=NetD5_12 New Net Name=NetD6_12
+Change Net Name : Old Net Name=NetD5_13 New Net Name=NetD6_13
+Change Net Name : Old Net Name=NetD5_19 New Net Name=NetD6_19
+Change Net Name : Old Net Name=NetD5_26 New Net Name=NetD6_26
+Change Net Name : Old Net Name=NetD6_3 New Net Name=NetD7_3
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Net: Name=NetD2_1

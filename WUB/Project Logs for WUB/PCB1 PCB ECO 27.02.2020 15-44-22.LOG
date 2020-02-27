@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetC2_2 Pin=SB1-2
+Added Pin To Net: NetName=MEMS_INT1 Pin=SB7-1
+Added Pin To Net: NetName=MEMS_VDD Pin=SB8-1
