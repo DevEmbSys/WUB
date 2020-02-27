@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=GSM_TX Pin=D1-1
+Removed Pin From Net: NetName=GSM_RX Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D1-8
+Removed Pin From Net: NetName=GND Pin=D1-13
+Removed Pin From Net: NetName=GSM_SIM_DET Pin=D1-14
+Removed Pin From Net: NetName=GSM_SIM_DATA Pin=D1-15
+Removed Pin From Net: NetName=GSM_SIM_CLK Pin=D1-16
+Removed Pin From Net: NetName=GSM_SIM_RST Pin=D1-17
+Removed Pin From Net: NetName=GSM_SIM_VDD Pin=D1-18
+Removed Pin From Net: NetName=GND Pin=D1-19
+Removed Pin From Net: NetName=GND Pin=D1-21
+Removed Pin From Net: NetName=GND Pin=D1-33
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-34
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-35
+Removed Pin From Net: NetName=GND Pin=D1-36
+Removed Pin From Net: NetName=GND Pin=D1-37
+Removed Pin From Net: NetName=GSM_PWRKEY Pin=D1-39
+Removed Pin From Net: NetName=GSM_1V8 Pin=D1-40
+Removed Pin From Net: NetName=GSM_STATUS Pin=D1-42
+Removed Pin From Net: NetName=GND Pin=D4-33
+Removed Pin From Net: NetName=GND Pin=D?-23
+Removed Pin From Net: NetName=GND Pin=D?-24
+Removed Pin From Net: NetName=GND Pin=D?-25
+Removed Pin From Net: NetName=GND Pin=D?-27
+Removed Pin From Net: NetName=GND Pin=D?-28
+Removed Pin From Net: NetName=GND Pin=D?-30
+Removed Pin From Net: NetName=GND Pin=D?-31
+Removed Pin From Net: NetName=GND Pin=D?-43
+Removed Pin From Net: NetName=GND Pin=D?-52
+Removed Pin From Net: NetName=GND Pin=D?-53
+Removed Pin From Net: NetName=GND Pin=D?-54
+Removed Pin From Net: NetName=GND Pin=D?-55
+Removed Pin From Net: NetName=GND Pin=D?-56
+Removed Pin From Net: NetName=GND Pin=D?-58
+Removed Pin From Net: NetName=GND Pin=D?-65
+Removed Pin From Net: NetName=GND Pin=D?-66
+Removed Pin From Net: NetName=GND Pin=D?-73
+Removed Pin From Net: NetName=GND Pin=D?-74
+Removed Pin From Net: NetName=GND Pin=D?-75
+Removed Pin From Net: NetName=GND Pin=D?-84
+Removed Pin From Net: NetName=GND Pin=D?-85
+Removed Pin From Net: NetName=GND Pin=D?-86
+Removed Pin From Net: NetName=GND Pin=D?-88
+Removed Pin From Net: NetName=GND Pin=D?-89
+Change Component Footprint: Designator=D1 Old Footprint=SIM7020E New Footprint=SIM7090G
+Change Component Comment : Designator=D1 Old Comment=SIM7020E New Comment=SIM7090G
+Change Component Designator: OldDesignator=*7 NewDesignator=*8
+Change Component Designator: OldDesignator=*8 NewDesignator=*9
+Change Component Designator: OldDesignator=*9 NewDesignator=*10
+Change Component Designator: OldDesignator=*10 NewDesignator=*11
+Change Component Designator: OldDesignator=*11 NewDesignator=*12
+Change Component Designator: OldDesignator=*12 NewDesignator=*13
+Change Component Designator: OldDesignator=*13 NewDesignator=*14
+Change Component Designator: OldDesignator=*14 NewDesignator=*15
+Change Component Designator: OldDesignator=*15 NewDesignator=*16
+Change Component Designator: OldDesignator=*? NewDesignator=*7
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Added Pin To Net: NetName=GSM_RX Pin=D1-6
+Added Pin To Net: NetName=GSM_TX Pin=D1-7
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=D1-13
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=D1-14
+Added Pin To Net: NetName=GSM_SIM_RST Pin=D1-15
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=D1-16
+Added Pin To Net: NetName=NetC1_2 Pin=D1-19
+Added Pin To Net: NetName=NetC1_2 Pin=D1-20
+Added Pin To Net: NetName=GSM_1V8 Pin=D1-21
+Added Pin To Net: NetName=GND Pin=D1-22
+Added Pin To Net: NetName=GND Pin=D1-23
+Added Pin To Net: NetName=GND Pin=D1-24
+Added Pin To Net: NetName=GND Pin=D1-25
+Added Pin To Net: NetName=GND Pin=D1-28
+Added Pin To Net: NetName=GND Pin=D1-43
+Added Pin To Net: NetName=GSM_SIM_DET Pin=D1-44
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D1-46
+Added Pin To Net: NetName=GND Pin=D1-52
+Added Pin To Net: NetName=GND Pin=D1-53
+Added Pin To Net: NetName=GND Pin=D1-54
+Added Pin To Net: NetName=GND Pin=D1-55
+Added Pin To Net: NetName=GND Pin=D1-56
+Added Pin To Net: NetName=GND Pin=D1-58
+Added Pin To Net: NetName=GND Pin=D1-65
+Added Pin To Net: NetName=GND Pin=D1-66
+Added Pin To Net: NetName=GND Pin=D1-73
+Added Pin To Net: NetName=GND Pin=D1-74
+Added Pin To Net: NetName=GND Pin=D1-75
+Added Pin To Net: NetName=GSM_STATUS Pin=D1-78
+Added Pin To Net: NetName=GND Pin=D1-84
+Added Pin To Net: NetName=GND Pin=D1-85
+Added Pin To Net: NetName=GND Pin=D1-86
+Added Pin To Net: NetName=GND Pin=D1-88
+Added Pin To Net: NetName=GND Pin=D1-89
+Change Net Name : Old Net Name=Net*7_1 New Net Name=Net*8_1
+Change Net Name : Old Net Name=Net*12_1 New Net Name=Net*13_1
+Change Net Name : Old Net Name=Net*14_1 New Net Name=Net*15_1
+Change Net Name : Old Net Name=Net*15_1 New Net Name=Net*16_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Added Pin To Net: NetName=NetD1_26 Pin=D1-26
+Added Pin To Net: NetName=NetD1_26 Pin=J1-1
+Added Net: Name=NetD1_26
