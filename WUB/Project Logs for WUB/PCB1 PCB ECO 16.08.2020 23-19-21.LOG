@@ -1,0 +1,26 @@
+Added Component: Designator=D?(SIM7090G)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=D?-23
+Added Pin To Net: NetName=GND Pin=D?-24
+Added Pin To Net: NetName=GND Pin=D?-25
+Added Pin To Net: NetName=GND Pin=D?-27
+Added Pin To Net: NetName=GND Pin=D?-28
+Added Pin To Net: NetName=GND Pin=D?-30
+Added Pin To Net: NetName=GND Pin=D?-31
+Added Pin To Net: NetName=GND Pin=D?-43
+Added Pin To Net: NetName=GND Pin=D?-52
+Added Pin To Net: NetName=GND Pin=D?-53
+Added Pin To Net: NetName=GND Pin=D?-54
+Added Pin To Net: NetName=GND Pin=D?-55
+Added Pin To Net: NetName=GND Pin=D?-56
+Added Pin To Net: NetName=GND Pin=D?-58
+Added Pin To Net: NetName=GND Pin=D?-65
+Added Pin To Net: NetName=GND Pin=D?-66
+Added Pin To Net: NetName=GND Pin=D?-73
+Added Pin To Net: NetName=GND Pin=D?-74
+Added Pin To Net: NetName=GND Pin=D?-75
+Added Pin To Net: NetName=GND Pin=D?-84
+Added Pin To Net: NetName=GND Pin=D?-85
+Added Pin To Net: NetName=GND Pin=D?-86
+Added Pin To Net: NetName=GND Pin=D?-88
+Added Pin To Net: NetName=GND Pin=D?-89
