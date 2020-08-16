@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=D6-33
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=GND Pin=D9-1
+Removed Pin From Net: NetName=SIM_DATA Pin=D9-3
+Removed Pin From Net: NetName=SIM_CLK Pin=D9-6
+Removed Pin From Net: NetName=SIM_RST Pin=D9-7
+Removed Pin From Net: NetName=SIM_VDD Pin=D9-8
+Added Component: Designator=D?(104224-0820)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SIM_VDD Pin=D?-1
+Added Pin To Net: NetName=SIM_RST Pin=D?-2
+Added Pin To Net: NetName=SIM_CLK Pin=D?-3
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=GND Pin=D?-4
+Added Pin To Net: NetName=SIM_DATA Pin=D?-6
