@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Added Component: Designator=T1(CSD17483F4)
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_16
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_15
+Change Net Name : Old Net Name=NetD?_3 New Net Name=NetD1_13
+Change Net Name : Old Net Name=NetD?_6 New Net Name=NetD1_14
+Change Net Name : Old Net Name=NetD?_19 New Net Name=NetD2_19
+Change Net Name : Old Net Name=NetD?_26 New Net Name=NetD1_26
+Change Net Name : Old Net Name=NetD?_32 New Net Name=NetD1_32

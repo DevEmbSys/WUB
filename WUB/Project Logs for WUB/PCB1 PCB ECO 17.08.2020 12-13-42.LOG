@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=D?-22
+Added Pin To Net: NetName=3V8 Pin=D?-19
+Added Pin To Net: NetName=3V8 Pin=D?-20
+Added Pin To Net: NetName=3V8 Pin=D?-21
+Added Net: Name=3V8
