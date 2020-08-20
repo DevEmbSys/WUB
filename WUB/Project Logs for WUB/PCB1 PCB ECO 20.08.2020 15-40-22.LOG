@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MOSI Pin=D6-11
+Removed Pin From Net: NetName=CS_FLASH Pin=D6-26
+Removed Pin From Net: NetName=MOSI Pin=R4-1
+Removed Pin From Net: NetName=CS_FLASH Pin=R7-1
+Added Pin To Net: NetName=CS_FLASH Pin=D6-11
+Added Pin To Net: NetName=MOSI Pin=D6-26
+Added Pin To Net: NetName=CS_FLASH Pin=R4-1
+Added Pin To Net: NetName=MOSI Pin=R7-1

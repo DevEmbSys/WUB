@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3V3 Pin=D?-A1
+Removed Pin From Net: NetName=CS_FLASH Pin=D?-A2
+Removed Pin From Net: NetName=MISO Pin=D?-B2
+Removed Pin From Net: NetName=GND Pin=D?-D2
+Change Component Comment : Designator=D? Old Comment=AT25SL321-UUE New Comment=AT45DB021E-UUN-T
+Added Pin To Net: NetName=CS_FLASH Pin=D?-A1
+Added Pin To Net: NetName=3V3 Pin=D?-B2
+Added Pin To Net: NetName=GND Pin=D?-C2
+Added Pin To Net: NetName=MISO Pin=D?-D2
