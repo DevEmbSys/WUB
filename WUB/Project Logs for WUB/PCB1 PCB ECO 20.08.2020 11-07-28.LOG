@@ -1,0 +1,6 @@
+Added Component: Designator=VD1(sot-363)
+Added Pin To Net: NetName=GSM_SIM_VDD Pin=VD1-1
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=VD1-2
+Added Pin To Net: NetName=GSM_SIM_RST Pin=VD1-3
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=VD1-4
+Added Pin To Net: NetName=GND Pin=VD1-6

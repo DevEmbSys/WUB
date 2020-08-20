@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB7 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB11
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB14
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB15
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB17
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB18
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB21
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB22
+Change Component Designator: OldDesignator=SB22 NewDesignator=SB23
+Added Component: Designator=SB5(SB)
+Added Pin To Net: NetName=3V3 Pin=SB5-1
+Added Pin To Net: NetName=NetD2_1 Pin=SB5-2
+Change Net Name : Old Net Name=NetSB10_2 New Net Name=NetSB11_2

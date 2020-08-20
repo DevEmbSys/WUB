@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GSM_SIM_CLK Pin=VD1-2
+Removed Pin From Net: NetName=GSM_SIM_RST Pin=VD1-3
+Removed Pin From Net: NetName=GSM_SIM_DATA Pin=VD1-4
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD?
+Added Pin To Net: NetName=GSM_SIM_RST Pin=VD?-2
+Added Pin To Net: NetName=GSM_SIM_CLK Pin=VD?-3
