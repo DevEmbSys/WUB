@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Added Component: Designator=R10(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MEMS_SCL Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R10-2
+Added Pin To Net: NetName=3V3 Pin=R11-2
