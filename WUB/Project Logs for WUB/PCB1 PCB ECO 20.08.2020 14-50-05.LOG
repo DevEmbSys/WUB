@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Net*14_1 Pin=SB15-2
+Added Pin To Net: NetName=Net*3_1 Pin=SB15-2
+Change Net Name : Old Net Name=NetD6_11 New Net Name=MOSI
+Change Net Name : Old Net Name=NetD6_12 New Net Name=MISO
+Change Net Name : Old Net Name=NetD6_13 New Net Name=SCK

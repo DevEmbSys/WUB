@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SIM_DATA Pin=VD?-1
+Added Pin To Net: NetName=GSM_SIM_DATA Pin=VD?-1

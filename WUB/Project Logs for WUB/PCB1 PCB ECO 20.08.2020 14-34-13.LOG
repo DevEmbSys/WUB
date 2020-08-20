@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=MEMS_SDA Pin=D8-5
+Added Pin To Net: NetName=MEMS_SCL Pin=D8-6
+Added Pin To Net: NetName=3V3 Pin=D8-8

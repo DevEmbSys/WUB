@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC10_2 Pin=XTAL2-1
+Removed Pin From Net: NetName=NetC6_2 Pin=XTAL2-2
+Added Component: Designator=NX3215SA-32.768K-STD-MUA-14(NX3215SA)
+Added Pin To Net: NetName=NetC10_2 Pin=NX3215SA-32.768K-STD-MUA-14-1
+Added Pin To Net: NetName=NetC6_2 Pin=NX3215SA-32.768K-STD-MUA-14-2

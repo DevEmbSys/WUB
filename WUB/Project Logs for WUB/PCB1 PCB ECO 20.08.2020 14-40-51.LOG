@@ -1,0 +1,20 @@
+Change Component Comment : Designator=XTAL? Old Comment=32.768 kHz New Comment=NX3215SA-32. 768K-STD-MUA-14
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=XTAL? NewDesignator=XTAL2
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=MEMS_INT1 Pin=R?-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC11_2

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=3V3 Pin=D?-A1
+Added Pin To Net: NetName=MISO Pin=D?-B2
+Added Pin To Net: NetName=SCK Pin=D?-C1
+Added Pin To Net: NetName=MOSI Pin=D?-D1
+Added Pin To Net: NetName=GND Pin=D?-D2
+Added Pin To Net: NetName=CS_FLASH Pin=D6-26
+Added Pin To Net: NetName=CS_FLASH Pin=D?-A2
+Added Pin To Net: NetName=CS_FLASH Pin=R7-1
+Added Net: Name=CS_FLASH
