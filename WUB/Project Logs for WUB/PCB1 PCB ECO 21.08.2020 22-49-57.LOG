@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=D6-1
+Removed Pin From Net: NetName=NetC3_2 Pin=D6-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D6-3
+Removed Pin From Net: NetName=GSM_PWRKEY Pin=D6-4
+Removed Pin From Net: NetName=MPU_TX Pin=D6-6
+Removed Pin From Net: NetName=MPU_RX Pin=D6-7
+Removed Pin From Net: NetName=GSM_PWR Pin=D6-8
+Removed Pin From Net: NetName=3V3 Pin=D6-9
+Removed Pin From Net: NetName=MEMS_VDD Pin=D6-10
+Removed Pin From Net: NetName=MISO Pin=D6-11
+Removed Pin From Net: NetName=CS_FLASH Pin=D6-12
+Removed Pin From Net: NetName=SCK Pin=D6-13
+Removed Pin From Net: NetName=MEMS_SDA Pin=D6-14
+Removed Pin From Net: NetName=MEMS_SCL Pin=D6-15
+Removed Pin From Net: NetName=Net*15_1 Pin=D6-17
+Removed Pin From Net: NetName=Net*16_1 Pin=D6-18
+Removed Pin From Net: NetName=GND Pin=D6-20
+Removed Pin From Net: NetName=NetC11_2 Pin=D6-22
+Removed Pin From Net: NetName=NetC5_2 Pin=D6-23
+Removed Pin From Net: NetName=NetC9_2 Pin=D6-24
+Removed Pin From Net: NetName=3V3 Pin=D6-25
+Removed Pin From Net: NetName=MOSI Pin=D6-26
+Removed Pin From Net: NetName=Net*3_1 Pin=D6-28
+Removed Pin From Net: NetName=GND Pin=D6-29
+Removed Pin From Net: NetName=GND Pin=D6-29
+Removed Pin From Net: NetName=NetC10_2 Pin=D6-30
+Removed Pin From Net: NetName=3V3 Pin=D6-32
+Removed Pin From Net: NetName=GSM_PWR Pin=R1-2
+Removed Pin From Net: NetName=GSM_PWR Pin=T1-1
+Added Component: Designator=D?(QFN32_nrf52811)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC12_2 Pin=D?-1
+Added Pin To Net: NetName=NetC3_2 Pin=D?-2
+Added Pin To Net: NetName=NetC4_2 Pin=D?-3
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D?-4
+Added Pin To Net: NetName=MPU_TX Pin=D?-6
+Added Pin To Net: NetName=MPU_RX Pin=D?-7
+Added Pin To Net: NetName=GSM_PWR Pin=D?-8
+Added Pin To Net: NetName=3V3 Pin=D?-9
+Added Pin To Net: NetName=MEMS_VDD Pin=D?-10
+Added Pin To Net: NetName=MISO Pin=D?-11
+Added Pin To Net: NetName=CS_FLASH Pin=D?-12
+Added Pin To Net: NetName=SCK Pin=D?-13
+Added Pin To Net: NetName=MEMS_SDA Pin=D?-14
+Added Pin To Net: NetName=MEMS_SCL Pin=D?-15
+Added Pin To Net: NetName=Net*15_1 Pin=D?-17
+Added Pin To Net: NetName=Net*16_1 Pin=D?-18
+Added Pin To Net: NetName=GND Pin=D?-20
+Added Pin To Net: NetName=NetC11_2 Pin=D?-22
+Added Pin To Net: NetName=NetC5_2 Pin=D?-23
+Added Pin To Net: NetName=NetC9_2 Pin=D?-24
+Added Pin To Net: NetName=3V3 Pin=D?-25
+Added Pin To Net: NetName=MOSI Pin=D?-26
+Added Pin To Net: NetName=Net*3_1 Pin=D?-28
+Added Pin To Net: NetName=GND Pin=D?-29
+Added Pin To Net: NetName=GND Pin=D?-29
+Added Pin To Net: NetName=NetC10_2 Pin=D?-30
+Added Pin To Net: NetName=3V3 Pin=D?-32
+Added Pin To Net: NetName=GSM_PWR Pin=R?-2
+Added Pin To Net: NetName=NetD?_5 Pin=D?-5
+Added Pin To Net: NetName=NetD?_5 Pin=R4-2
+Added Net: Name=NetD?_5
+Added Pin To Net: NetName=NetD?_16 Pin=D?-16
+Added Pin To Net: NetName=NetD?_16 Pin=R13-2
+Added Net: Name=NetD?_16
+Added Pin To Net: NetName=NetD?_19 Pin=D?-19
+Added Pin To Net: NetName=NetD?_19 Pin=J2-1
+Added Net: Name=NetD?_19
+Added Pin To Net: NetName=NetD?_27 Pin=D?-27
+Added Pin To Net: NetName=NetD?_27 Pin=R5-2
+Added Net: Name=NetD?_27
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R?-1
+Added Pin To Net: NetName=NetR1_2 Pin=T1-1
+Added Net: Name=NetR1_2

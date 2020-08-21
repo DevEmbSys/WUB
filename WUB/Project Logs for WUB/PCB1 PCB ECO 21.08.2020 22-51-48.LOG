@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GSM_PWR Pin=R1-2
+Removed Pin From Net: NetName=GSM_PWR Pin=T1-1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Added Component: Designator=L1(L0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L2(L0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC10_2 Pin=L1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=GSM_PWR Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=T1-1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetD6_5 Pin=D6-5
+Added Pin To Net: NetName=NetD6_5 Pin=R5-2
+Added Net: Name=NetD6_5
+Added Pin To Net: NetName=NetD6_16 Pin=D6-16
+Added Pin To Net: NetName=NetD6_16 Pin=R14-2
+Added Net: Name=NetD6_16
+Added Pin To Net: NetName=NetD6_19 Pin=D6-19
+Added Pin To Net: NetName=NetD6_19 Pin=J2-1
+Added Net: Name=NetD6_19
+Added Pin To Net: NetName=NetD6_27 Pin=D6-27
+Added Pin To Net: NetName=NetD6_27 Pin=R6-2
+Added Net: Name=NetD6_27
+Added Pin To Net: NetName=NetD6_31 Pin=D6-31
+Added Pin To Net: NetName=NetD6_31 Pin=L2-1
+Added Net: Name=NetD6_31
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L2-2
+Added Net: Name=NetL1_1
