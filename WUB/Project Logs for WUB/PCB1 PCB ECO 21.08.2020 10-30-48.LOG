@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CS_FLASH Pin=D6-11
+Removed Pin From Net: NetName=SCK Pin=D6-12
+Removed Pin From Net: NetName=CS_FLASH Pin=R6-1
+Removed Pin From Net: NetName=SCK Pin=R7-1
+Added Pin To Net: NetName=SCK Pin=D6-11
+Added Pin To Net: NetName=CS_FLASH Pin=D6-12
+Added Pin To Net: NetName=SCK Pin=R6-1
+Added Pin To Net: NetName=CS_FLASH Pin=R7-1

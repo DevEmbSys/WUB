@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=MEMS_INT1 Pin=D8-3
+Removed Pin From Net: NetName=GND Pin=D8-4
+Removed Pin From Net: NetName=MEMS_SDA Pin=D8-5
+Removed Pin From Net: NetName=MEMS_SCL Pin=D8-6
+Removed Pin From Net: NetName=MEMS_INT1 Pin=D8-7
+Removed Pin From Net: NetName=3V3 Pin=D8-8
+Removed Pin From Net: NetName=CS_FLASH Pin=D10-A1
+Removed Pin From Net: NetName=3V3 Pin=D10-A2
+Removed Pin From Net: NetName=3V3 Pin=D10-B1
+Removed Pin From Net: NetName=3V3 Pin=D10-B2
+Removed Pin From Net: NetName=SCK Pin=D10-C1
+Removed Pin From Net: NetName=GND Pin=D10-C2
+Removed Pin From Net: NetName=MOSI Pin=D10-D1
+Removed Pin From Net: NetName=MISO Pin=D10-D2
+Removed Pin From Net: NetName=MEMS_INT1 Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=R9-2
+Change Component Footprint: Designator=D8 Old Footprint=uSOP8 New Footprint=DFN2626-10
+Change Component Comment : Designator=D8 Old Comment=DS1337 New Comment=PCF85063ATL
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Added Component: Designator=D?(WLCSP8)
+Added Pin To Net: NetName=MEMS_INT1 Pin=D8-4
+Added Pin To Net: NetName=GND Pin=D8-5
+Added Pin To Net: NetName=GND Pin=D8-5
+Added Pin To Net: NetName=MEMS_SDA Pin=D8-6
+Added Pin To Net: NetName=MEMS_SCL Pin=D8-7
+Added Pin To Net: NetName=3V3 Pin=D8-10
+Added Pin To Net: NetName=3V3 Pin=D?-A1
+Added Pin To Net: NetName=CS_FLASH Pin=D?-A2
+Added Pin To Net: NetName=3V3 Pin=D?-B1
+Added Pin To Net: NetName=MISO Pin=D?-B2
+Added Pin To Net: NetName=SCK Pin=D?-C1
+Added Pin To Net: NetName=3V3 Pin=D?-C2
+Added Pin To Net: NetName=MOSI Pin=D?-D1
+Added Pin To Net: NetName=GND Pin=D?-D2
