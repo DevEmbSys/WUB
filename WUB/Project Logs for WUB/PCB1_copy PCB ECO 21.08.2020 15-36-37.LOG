@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=3V3 Pin=D?-14
+Added Pin To Net: NetName=SEL_SIM Pin=D6-32
+Added Pin To Net: NetName=SEL_SIM Pin=D?-2
+Added Pin To Net: NetName=SEL_SIM Pin=D?-10
+Added Pin To Net: NetName=SEL_SIM Pin=R5-2
+Added Net: Name=SEL_SIM
