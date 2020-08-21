@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=MEMS_VDD Pin=D?-4
+Added Pin To Net: NetName=MISO Pin=D?-5
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D?-14
+Added Pin To Net: NetName=MPU_TX Pin=D?-15
+Added Pin To Net: NetName=MPU_RX Pin=D?-17
+Added Pin To Net: NetName=MOSI Pin=D?-23
+Added Pin To Net: NetName=GSM_PWR Pin=D?-31
+Added Pin To Net: NetName=CS_FLASH Pin=D?-33
+Added Pin To Net: NetName=SCK Pin=D?-34
+Added Pin To Net: NetName=MEMS_SDA Pin=D?-35
+Added Pin To Net: NetName=MEMS_SCL Pin=D?-36
