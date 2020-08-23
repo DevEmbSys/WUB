@@ -1,0 +1,12 @@
+Change Component Comment : Designator=D? Old Comment=1 New Comment=bq21040
+Change Component Comment : Designator=X? Old Comment=1 New Comment=microUsb
+Added Pin To Net: NetName=VBAT Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-5
+Added Pin To Net: NetName=VBAT Pin=D?-6
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-5
+Added Pin To Net: NetName=Vusb Pin=X?-1
+Added Net: Name=Vusb

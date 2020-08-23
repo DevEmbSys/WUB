@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=D7-5
+Added Component: Designator=X?(10118194-0001LF)
+Add component. Clean all parameters for all variants
