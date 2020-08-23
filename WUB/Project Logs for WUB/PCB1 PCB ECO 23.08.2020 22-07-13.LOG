@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VBAT Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D1-5
+Removed Pin From Net: NetName=Vusb Pin=D1-6
+Removed Pin From Net: NetName=MEMS_VDD Pin=D7-10
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=MEMS_VDD Pin=SB10-1
+Removed Pin From Net: NetName=NetC3_2 Pin=SB10-2
+Added Component: Designator=*?(PinConnect)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D?(SOT-23)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VBAT Pin=D?-2
+Added Pin To Net: NetName=GND Pin=D?-5
+Added Pin To Net: NetName=Vusb Pin=D?-6
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VBAT Pin=R?-2
+Change Net Name : Old Net Name=Net*16_1 New Net Name=SWDIO
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=D7-10
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_4 Pin=D?-4
+Added Pin To Net: NetName=NetD?_4 Pin=R1-1
+Added Net: Name=NetD?_4
+Added Pin To Net: NetName=sense_vbat Pin=D?-3
+Added Pin To Net: NetName=sense_vbat Pin=R7-1
+Added Pin To Net: NetName=sense_vbat Pin=R?-1
+Added Net: Name=sense_vbat
+Added Pin To Net: NetName=SWCLK Pin=*15-1
+Added Pin To Net: NetName=SWCLK Pin=*15-1
+Added Pin To Net: NetName=SWCLK Pin=D7-17
+Added Pin To Net: NetName=SWCLK Pin=X1-2
+Added Pin To Net: NetName=SWCLK Pin=X1-3
+Added Net: Name=SWCLK

@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=*3 NewDesignator=*2
+Change Component Designator: OldDesignator=*? NewDesignator=*3
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB11
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB14
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB15
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB17
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB18
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB22 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB23 NewDesignator=SB21
+Added Pin To Net: NetName=sense_vbat Pin=R3-2
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*2_1
+Change Net Name : Old Net Name=Net*?_1 New Net Name=Net*3_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_4 New Net Name=NetD1_4
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetSB11_2 New Net Name=NetSB10_2
