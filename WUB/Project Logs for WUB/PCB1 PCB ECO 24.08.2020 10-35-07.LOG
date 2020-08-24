@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X6
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X8
+Change Component Designator: OldDesignator=X8 NewDesignator=X9
+Change Component Designator: OldDesignator=X9 NewDesignator=X10
+Change Component Designator: OldDesignator=X10 NewDesignator=X11
+Change Component Designator: OldDesignator=X11 NewDesignator=X12
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Change Component Designator: OldDesignator=X13 NewDesignator=X14
+Change Component Designator: OldDesignator=X14 NewDesignator=X15
+Change Component Designator: OldDesignator=X15 NewDesignator=X16
+Change Component Designator: OldDesignator=X16 NewDesignator=X17
+Added Component: Designator=X4(PINCONNECT2)
+Added Pin To Net: NetName=NetD7_10 Pin=D7-10
+Added Pin To Net: NetName=NetD7_10 Pin=X4-1
+Added Net: Name=NetD7_10

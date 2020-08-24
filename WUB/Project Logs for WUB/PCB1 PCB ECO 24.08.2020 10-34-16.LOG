@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=*7-1
+Removed Pin From Net: NetName=GND Pin=*7-1
+Removed Pin From Net: NetName=VBAT Pin=*8-1
+Removed Pin From Net: NetName=VBAT Pin=*8-1
+Removed Pin From Net: NetName=3V3 Pin=*9-1
+Removed Pin From Net: NetName=3V3 Pin=*9-1
+Removed Pin From Net: NetName=3V3 Pin=*10-1
+Removed Pin From Net: NetName=3V3 Pin=*10-1
+Removed Pin From Net: NetName=GND Pin=*11-1
+Removed Pin From Net: NetName=GND Pin=*11-1
+Removed Pin From Net: NetName=GND Pin=*12-1
+Removed Pin From Net: NetName=GND Pin=*12-1
+Removed Pin From Net: NetName=SWCLK Pin=*15-1
+Removed Pin From Net: NetName=SWCLK Pin=*15-1
+Removed Pin From Net: NetName=SWDIO Pin=*16-1
+Removed Pin From Net: NetName=SWDIO Pin=*16-1
+Change Component Designator: OldDesignator=*3 NewDesignator=*1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=X3(PINCONNECT2)
+Added Component: Designator=X4(PINCONNECT2)
+Added Component: Designator=X5(PINCONNECT2)
+Added Component: Designator=X6(PINCONNECT2)
+Added Component: Designator=X7(PINCONNECT2)
+Added Component: Designator=X8(PINCONNECT2)
+Added Component: Designator=X9(PINCONNECT2)
+Added Component: Designator=X10(PINCONNECT2)
+Added Component: Designator=X11(PINCONNECT2)
+Added Component: Designator=X12(PINCONNECT2)
+Added Component: Designator=X13(PINCONNECT2)
+Added Component: Designator=X14(PINCONNECT2)
+Added Component: Designator=X15(PINCONNECT2)
+Added Component: Designator=X16(PINCONNECT2)
+Added Pin To Net: NetName=GND Pin=X7-1
+Added Pin To Net: NetName=VBAT Pin=X8-1
+Added Pin To Net: NetName=3V3 Pin=X9-1
+Added Pin To Net: NetName=3V3 Pin=X10-1
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X12-1
+Added Pin To Net: NetName=SWCLK Pin=X15-1
+Added Pin To Net: NetName=SWDIO Pin=X16-1
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net*1_1
+Added Pin To Net: NetName=NetD7_28 Pin=D7-28
+Added Pin To Net: NetName=NetD7_28 Pin=SB12-2
+Added Pin To Net: NetName=NetD7_28 Pin=X3-1
+Added Net: Name=NetD7_28
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=X4-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=X5-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=X6-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=X13-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=X14-1
+Added Net: Name=NetR17_1
