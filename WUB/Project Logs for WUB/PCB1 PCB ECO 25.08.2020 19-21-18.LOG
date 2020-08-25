@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=Net*3_1 Pin=D6-7
+Removed Pin From Net: NetName=MOSI Pin=D6-23
+Removed Pin From Net: NetName=Net*2_1 Pin=R2-1
+Removed Pin From Net: NetName=Net*2_1 Pin=R5-1
+Removed Pin From Net: NetName=NetC1_2 Pin=SB9-2
+Removed Pin From Net: NetName=MEMS_INT1 Pin=SB12-1
+Removed Pin From Net: NetName=Net*3_1 Pin=SB12-2
+Removed Pin From Net: NetName=MEMS_INT1 Pin=SB13-1
+Removed Pin From Net: NetName=NetD7_3 Pin=SB13-2
+Removed Pin From Net: NetName=NetD7_3 Pin=SB14-2
+Change Component Designator: OldDesignator=*4 NewDesignator=*5
+Change Component Designator: OldDesignator=*5 NewDesignator=*6
+Change Component Designator: OldDesignator=*6 NewDesignator=*7
+Change Component Designator: OldDesignator=*7 NewDesignator=*8
+Change Component Designator: OldDesignator=*8 NewDesignator=*9
+Change Component Designator: OldDesignator=*9 NewDesignator=*10
+Change Component Designator: OldDesignator=*10 NewDesignator=*11
+Change Component Designator: OldDesignator=*11 NewDesignator=*12
+Change Component Designator: OldDesignator=*12 NewDesignator=*13
+Change Component Designator: OldDesignator=*13 NewDesignator=*4
+Change Component Designator: OldDesignator=C9 NewDesignator=C13
+Change Component Designator: OldDesignator=C10 NewDesignator=C14
+Change Component Designator: OldDesignator=C11 NewDesignator=C15
+Change Component Designator: OldDesignator=C12 NewDesignator=C16
+Change Component Designator: OldDesignator=C13 NewDesignator=C17
+Change Component Designator: OldDesignator=C14 NewDesignator=C18
+Change Component Designator: OldDesignator=C15 NewDesignator=C19
+Change Component Designator: OldDesignator=C16 NewDesignator=C20
+Change Component Designator: OldDesignator=C17 NewDesignator=C21
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB14
+Added Component: Designator=*?(PinConnect)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(PinConnect)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MEMS_INT1 Pin=*14-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=*14-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=MOSI Pin=D6-4
+Added Pin To Net: NetName=MEMS_INT1 Pin=D6-16
+Added Pin To Net: NetName=Net*2_1 Pin=R6-1
+Added Pin To Net: NetName=Net*3_1 Pin=R14-1
+Change Net Name : Old Net Name=Net*4_1 New Net Name=Net*5_1
+Change Net Name : Old Net Name=Net*5_1 New Net Name=Net*6_1
+Change Net Name : Old Net Name=Net*6_1 New Net Name=Net*7_1
+Change Net Name : Old Net Name=Net*13_1 New Net Name=Net*4_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetSB11_2 New Net Name=NetSB10_2
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=C9-2
+Added Pin To Net: NetName=Net*?_1 Pin=C10-2
+Added Pin To Net: NetName=Net*?_1 Pin=D6-23
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C11-2
+Added Pin To Net: NetName=Net*_1 Pin=C12-2
+Added Pin To Net: NetName=Net*_1 Pin=D6-22
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetD6_7 Pin=D6-7
+Added Pin To Net: NetName=NetD6_7 Pin=R14-2
+Added Net: Name=NetD6_7
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R5-1
+Added Pin To Net: NetName=NetR2_1 Pin=R6-2
+Added Net: Name=NetR2_1

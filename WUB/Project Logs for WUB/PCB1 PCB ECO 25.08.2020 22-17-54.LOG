@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*?_1 Pin=*?-1
+Removed Pin From Net: NetName=Net*?_1 Pin=*?-1
+Change Component Designator: OldDesignator=*6 NewDesignator=*8
+Change Component Designator: OldDesignator=*7 NewDesignator=*9
+Change Component Designator: OldDesignator=*8 NewDesignator=*10
+Change Component Designator: OldDesignator=*9 NewDesignator=*11
+Change Component Designator: OldDesignator=*10 NewDesignator=*12
+Change Component Designator: OldDesignator=*11 NewDesignator=*13
+Change Component Designator: OldDesignator=*12 NewDesignator=*14
+Change Component Designator: OldDesignator=*13 NewDesignator=*15
+Change Component Designator: OldDesignator=*14 NewDesignator=*16
+Change Component Designator: OldDesignator=*15 NewDesignator=*17
+Change Component Designator: OldDesignator=*16 NewDesignator=*18
+Change Component Designator: OldDesignator=* NewDesignator=*6
+Change Component Designator: OldDesignator=*? NewDesignator=*7
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R7
+Added Component: Designator=R15(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB11(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB12(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB13(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB15(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(CSD17483F4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT3(CSD17483F4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=Net*_1 Pin=R16-1
+Added Pin To Net: NetName=Net*_1 Pin=SB11-2
+Added Pin To Net: NetName=Net*?_1 Pin=SB12-2
+Added Pin To Net: NetName=GND Pin=SB13-2
+Added Pin To Net: NetName=GND Pin=SB15-2
+Added Pin To Net: NetName=Net*?_1 Pin=VT2-1
+Added Pin To Net: NetName=Net*_1 Pin=VT3-1
+Change Net Name : Old Net Name=Net*6_1 New Net Name=Net*8_1
+Change Net Name : Old Net Name=Net*7_1 New Net Name=Net*9_1
+Change Net Name : Old Net Name=Net*15_1 New Net Name=Net*17_1
+Change Net Name : Old Net Name=Net*16_1 New Net Name=Net*18_1
+Change Net Name : Old Net Name=Net*?_1 New Net Name=NetC9_2
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetD7_3 New Net Name=NetD8_3
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD7_2
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=VT3-3
+Added Net: Name=Net*6_1
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=*7-1
+Added Pin To Net: NetName=Net*7_1 Pin=VT2-3
+Added Net: Name=Net*7_1
+Added Pin To Net: NetName=NetSB13_1 Pin=SB13-1
+Added Pin To Net: NetName=NetSB13_1 Pin=VT2-2
+Added Net: Name=NetSB13_1
+Added Pin To Net: NetName=NetSB15_1 Pin=SB15-1
+Added Pin To Net: NetName=NetSB15_1 Pin=VT3-2
+Added Net: Name=NetSB15_1
