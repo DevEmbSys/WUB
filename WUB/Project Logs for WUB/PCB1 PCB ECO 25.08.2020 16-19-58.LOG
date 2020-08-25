@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GNSS_RX Pin=D1-4
+Added Pin To Net: NetName=GNSS_RX Pin=D2-5
+Added Net: Name=GNSS_RX
+Added Pin To Net: NetName=GNSS_TX Pin=D1-36
+Added Pin To Net: NetName=GNSS_TX Pin=D2-4
+Added Net: Name=GNSS_TX

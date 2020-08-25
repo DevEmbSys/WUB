@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=MEMS_INT1 Pin=*14-1
+Removed Pin From Net: NetName=MEMS_INT1 Pin=*14-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Added Component: Designator=D?(QFN40)
+Added Pin To Net: NetName=NetC5_2 Pin=D?-2
+Added Pin To Net: NetName=NetC7_2 Pin=D?-3
+Added Pin To Net: NetName=3V3 Pin=D?-8
+Added Pin To Net: NetName=3V3 Pin=D?-9
+Added Pin To Net: NetName=3V3 Pin=D?-18
+Added Pin To Net: NetName=GND Pin=D?-25
+Added Pin To Net: NetName=NetC3_2 Pin=D?-28
+Added Pin To Net: NetName=NetC4_2 Pin=D?-29
+Added Pin To Net: NetName=3V3 Pin=D?-30
+Added Pin To Net: NetName=GND Pin=D?-37
+Added Pin To Net: NetName=3V3 Pin=D?-40
+Added Pin To Net: NetName=GND Pin=D?-41
+Added Pin To Net: NetName=NetD?_6 Pin=D?-6
+Added Pin To Net: NetName=NetD?_6 Pin=R3-2
+Added Net: Name=NetD?_6
+Added Pin To Net: NetName=NetD?_24 Pin=D?-24
+Added Pin To Net: NetName=NetD?_24 Pin=J3-1
+Added Net: Name=NetD?_24
