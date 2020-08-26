@@ -91,4 +91,6 @@
 [0424/081746:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0424/081751:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0424/081756:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
-[0823/132639:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0826/222323:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0826/222328:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0826/222333:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

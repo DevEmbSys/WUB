@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=3V3 Pin=C7-1
+Removed Pin From Net: NetName=MEMS_INT1 Pin=D9-4
+Removed Pin From Net: NetName=3V3 Pin=D9-10
+Removed Pin From Net: NetName=MEMS_INT1 Pin=R15-1
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB17
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB18
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB21
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB22
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB23
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB24
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Added Component: Designator=R8(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB11(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB14(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB15(SB)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(CSD17483F4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VT2(CSD17483F4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=VBAT Pin=R18-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=3V3 Pin=SB15-1
+Added Pin To Net: NetName=VBAT Pin=T2-2
+Added Pin To Net: NetName=MEMS_INT1 Pin=T2-3
+Added Pin To Net: NetName=GND Pin=VT2-2
+Change Net Name : Old Net Name=MEMS_INT1 New Net Name=LDO_EN
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR20_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=D9-10
+Added Pin To Net: NetName=NetC7_1 Pin=SB14-2
+Added Pin To Net: NetName=NetC7_1 Pin=SB15-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_4 Pin=R19-1
+Added Net: Name=NetD9_4
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=T2-1
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetSB11_1 Pin=SB11-1
+Added Pin To Net: NetName=NetSB11_1 Pin=VT2-3
+Added Pin To Net: NetName=NetSB11_1 Pin=X3-1
+Added Net: Name=NetSB11_1
+Added Pin To Net: NetName=NetSB11_2 Pin=SB11-2
+Added Pin To Net: NetName=NetSB11_2 Pin=VT2-1
+Added Net: Name=NetSB11_2
+Added Pin To Net: NetName=P0.12 Pin=D7-10
+Added Pin To Net: NetName=P0.12 Pin=R8-1
+Added Net: Name=P0.12
