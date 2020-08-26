@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MPU_TX Pin=D4-15
+Removed Pin From Net: NetName=MPU_RX Pin=D4-17
+Added Pin To Net: NetName=MPU_RX Pin=D4-15
+Added Pin To Net: NetName=MPU_TX Pin=D4-17
