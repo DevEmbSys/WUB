@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MISO Pin=D6-6
+Removed Pin From Net: NetName=CS_FLASH Pin=D6-7
+Added Pin To Net: NetName=CS_FLASH Pin=D6-6
+Added Pin To Net: NetName=MISO Pin=D6-7

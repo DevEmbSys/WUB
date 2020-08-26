@@ -1,0 +1,3 @@
+Added Component: Designator=SB14(SB)
+Added Pin To Net: NetName=VDDH Pin=SB14-1
+Added Pin To Net: NetName=3V3 Pin=SB14-2

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MOSI Pin=D4-4
+Removed Pin From Net: NetName=SCK Pin=D4-5
+Removed Pin From Net: NetName=CS_FLASH Pin=D4-6
+Removed Pin From Net: NetName=MISO Pin=D4-7
+Removed Pin From Net: NetName=MOSI Pin=R7-1
+Removed Pin From Net: NetName=SCK Pin=R8-1
+Added Pin To Net: NetName=MISO Pin=D4-4
+Added Pin To Net: NetName=MOSI Pin=D4-5
+Added Pin To Net: NetName=SCK Pin=D4-6
+Added Pin To Net: NetName=CS_FLASH Pin=D4-7
+Added Pin To Net: NetName=MISO Pin=R7-1
+Added Pin To Net: NetName=MOSI Pin=R8-1

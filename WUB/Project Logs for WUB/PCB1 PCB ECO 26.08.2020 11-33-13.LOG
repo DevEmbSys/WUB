@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=*8 NewDesignator=*7
+Change Component Designator: OldDesignator=*9 NewDesignator=*8
+Change Component Designator: OldDesignator=*10 NewDesignator=*9
+Change Component Designator: OldDesignator=*11 NewDesignator=*10
+Change Component Designator: OldDesignator=*12 NewDesignator=*11
+Change Component Designator: OldDesignator=*13 NewDesignator=*12
+Change Component Designator: OldDesignator=*14 NewDesignator=*13
+Change Component Designator: OldDesignator=*15 NewDesignator=*14
+Change Component Designator: OldDesignator=*16 NewDesignator=X1
+Change Component Designator: OldDesignator=*17 NewDesignator=*15
+Change Component Designator: OldDesignator=*18 NewDesignator=*16
+Change Component Designator: OldDesignator=*19 NewDesignator=*17
+Change Component Designator: OldDesignator=*20 NewDesignator=*18
+Change Component Designator: OldDesignator=*21 NewDesignator=*19
+Change Component Designator: OldDesignator=*22 NewDesignator=*20
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Net Name : Old Net Name=Net*8_1 New Net Name=Net*7_1
+Change Net Name : Old Net Name=Net*9_1 New Net Name=Net*8_1
+Change Net Name : Old Net Name=Net*16_1 New Net Name=NetD4_13
+Change Net Name : Old Net Name=Net*17_1 New Net Name=Net*15_1
+Change Net Name : Old Net Name=Net*19_1 New Net Name=Net*17_1
+Change Net Name : Old Net Name=Net*20_1 New Net Name=Net*18_1
+Added Pin To Net: NetName=P0.29 Pin=D4-34
+Added Pin To Net: NetName=P0.29 Pin=R4-2
+Added Net: Name=P0.29
