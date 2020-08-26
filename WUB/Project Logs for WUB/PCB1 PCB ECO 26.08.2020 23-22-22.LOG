@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=XTAL3-GND
+Removed Pin From Net: NetName=GND Pin=XTAL3-GND
+Added Component: Designator=D?(SMD2106)
+Add component. Clean all parameters for all variants
