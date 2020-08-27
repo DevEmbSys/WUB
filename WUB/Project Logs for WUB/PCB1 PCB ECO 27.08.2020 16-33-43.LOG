@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetSB4_1 Pin=SB5-1
+Added Component: Designator=SB8(SB)
+Added Pin To Net: NetName=NetSB7_1 Pin=SB8-1
+Added Pin To Net: NetName=NetSB4_1 Pin=VT1-3
