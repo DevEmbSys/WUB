@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=X4 NewDesignator=X2
+Change Component Designator: OldDesignator=X5 NewDesignator=X3
+Change Component Designator: OldDesignator=X6 NewDesignator=X4
+Change Component Designator: OldDesignator=X7 NewDesignator=X5
+Change Component Designator: OldDesignator=X8 NewDesignator=X6
+Change Component Designator: OldDesignator=X9 NewDesignator=X7
+Change Component Designator: OldDesignator=X10 NewDesignator=X8
+Change Component Designator: OldDesignator=X11 NewDesignator=X9
+Change Component Designator: OldDesignator=X12 NewDesignator=X10
+Change Component Designator: OldDesignator=X13 NewDesignator=X11
+Change Component Designator: OldDesignator=X14 NewDesignator=X12
+Change Component Designator: OldDesignator=X15 NewDesignator=X13
+Change Component Designator: OldDesignator=X16 NewDesignator=X14
+Change Component Designator: OldDesignator=X17 NewDesignator=X15
+Change Component Designator: OldDesignator=X18 NewDesignator=X16
+Change Component Designator: OldDesignator=X19 NewDesignator=X17
+Added Component: Designator=*1(PinConnect2)
+Added Component: Designator=*2(PinConnect2)
+Added Pin To Net: NetName=VBAT Pin=*1-1
+Added Pin To Net: NetName=PWM_OUT1 Pin=*2-1

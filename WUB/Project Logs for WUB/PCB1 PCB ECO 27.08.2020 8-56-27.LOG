@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D10
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Added Component: Designator=R7(R0402)
+Added Pin To Net: NetName=NetSB11_1 Pin=D7-2
+Added Pin To Net: NetName=VBAT Pin=R7-1
+Change Net Name : Old Net Name=NetD7_5 New Net Name=NetD8_5
+Change Net Name : Old Net Name=NetD7_16 New Net Name=NetD8_16
+Change Net Name : Old Net Name=NetD7_19 New Net Name=NetD8_19
+Change Net Name : Old Net Name=NetD7_27 New Net Name=NetD8_27
+Change Net Name : Old Net Name=NetD7_28 New Net Name=NetD8_28
+Change Net Name : Old Net Name=NetD7_31 New Net Name=NetD8_31
+Change Net Name : Old Net Name=NetD8_3 New Net Name=NetD9_3
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD9_4 New Net Name=NetD10_4
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR8_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetSB11_1 New Net Name=NetD7_2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R7-2
+Added Net: Name=NetD7_1
