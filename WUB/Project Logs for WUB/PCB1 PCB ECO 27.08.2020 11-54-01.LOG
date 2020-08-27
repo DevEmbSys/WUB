@@ -1,0 +1,3 @@
+Added Component: Designator=D?(WLCSP8)
+Added Pin To Net: NetName=MEMS_SDA Pin=D?-35
+Added Pin To Net: NetName=MEMS_SCL Pin=D?-36

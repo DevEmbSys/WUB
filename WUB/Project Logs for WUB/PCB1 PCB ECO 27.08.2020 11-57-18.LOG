@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=*7 NewDesignator=*2
+Change Component Designator: OldDesignator=*8 NewDesignator=*3
+Change Component Designator: OldDesignator=*9 NewDesignator=*4
+Change Component Designator: OldDesignator=*10 NewDesignator=*5
+Change Component Designator: OldDesignator=*11 NewDesignator=*6
+Change Component Designator: OldDesignator=*12 NewDesignator=*7
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D4-22
+Added Pin To Net: NetName=GSM_PWR Pin=D4-23
+Change Net Name : Old Net Name=Net*8_1 New Net Name=Net*3_1
+Change Net Name : Old Net Name=NetD?_6 New Net Name=NetD4_6
+Change Net Name : Old Net Name=NetD?_24 New Net Name=NetD4_24
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR2_1
