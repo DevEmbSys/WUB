@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=T1 NewDesignator=T2
+Change Component Designator: OldDesignator=T2 NewDesignator=T3
+Change Component Designator: OldDesignator=T3 NewDesignator=T4
+Change Component Designator: OldDesignator=T4 NewDesignator=T5
+Added Component: Designator=T1(testPin_0.6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=T1-1

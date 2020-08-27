@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C4
+Change Component Designator: OldDesignator=C7 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C8
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=C17 NewDesignator=C15
+Change Component Designator: OldDesignator=C18 NewDesignator=C16
+Change Component Designator: OldDesignator=C19 NewDesignator=C17
+Change Component Designator: OldDesignator=C20 NewDesignator=C18
+Change Component Designator: OldDesignator=C21 NewDesignator=C19
+Change Component Designator: OldDesignator=C22 NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=T1 NewDesignator=T4
+Added Component: Designator=T1(testPin_0.6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T2(testPin_0.6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(testPin_0.6)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC18_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC20_2
+Added Pin To Net: NetName=NetD1_10 Pin=D1-10
+Added Pin To Net: NetName=NetD1_10 Pin=T1-1
+Added Net: Name=NetD1_10
+Added Pin To Net: NetName=NetD1_11 Pin=D1-11
+Added Pin To Net: NetName=NetD1_11 Pin=T2-1
+Added Net: Name=NetD1_11
+Added Pin To Net: NetName=NetD1_12 Pin=D1-12
+Added Pin To Net: NetName=NetD1_12 Pin=T3-1
+Added Net: Name=NetD1_12

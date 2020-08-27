@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetSB7_1 Pin=SB7-1
+Change Component Designator: OldDesignator=SB3 NewDesignator=SB2
+Change Component Designator: OldDesignator=SB5 NewDesignator=SB3
+Change Component Designator: OldDesignator=SB6 NewDesignator=SB4
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB5
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB6
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB7
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB11
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB14
+Change Net Name : Old Net Name=NetSB5_1 New Net Name=NetSB3_1
+Change Net Name : Old Net Name=NetSB6_1 New Net Name=NetSB4_1
+Change Net Name : Old Net Name=NetSB7_1 New Net Name=NetSB5_1
+Change Net Name : Old Net Name=NetSB9_1 New Net Name=NetSB6_1

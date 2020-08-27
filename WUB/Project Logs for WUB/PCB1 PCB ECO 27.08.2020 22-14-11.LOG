@@ -1,0 +1,9 @@
+Added Component: Designator=D9(QFN16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=VD1(sot-363)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SIM_DATA Pin=VD1-2
+Added Pin To Net: NetName=SIM_CLK Pin=VD1-3
+Added Pin To Net: NetName=SIM_RST Pin=VD1-4
+Added Pin To Net: NetName=SIM_VDD Pin=VD1-5
+Added Pin To Net: NetName=GND Pin=VD1-6
