@@ -1,0 +1,11 @@
+Added Component: Designator=D8(104224-0820)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SIM_VDD Pin=D8-1
+Added Pin To Net: NetName=SIM_RST Pin=D8-2
+Added Pin To Net: NetName=SIM_CLK Pin=D8-3
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=GND Pin=D8-4
+Added Pin To Net: NetName=SIM_DATA Pin=D8-6
