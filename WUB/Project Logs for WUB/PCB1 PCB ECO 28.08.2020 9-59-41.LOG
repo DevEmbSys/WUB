@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=J3-GND
+Added Component: Designator=T5(testPin_08)
+Added Component: Designator=T6(testPin_08)
+Added Pin To Net: NetName=NetD4_12 Pin=D4-12
+Added Pin To Net: NetName=NetD4_12 Pin=T6-1
+Added Net: Name=NetD4_12
+Added Pin To Net: NetName=NetD4_13 Pin=D4-13
+Added Pin To Net: NetName=NetD4_13 Pin=T5-1
+Added Net: Name=NetD4_13
