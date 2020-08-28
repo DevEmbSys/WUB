@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=P0.05 Pin=R10-2
+Removed Pin From Net: NetName=P0.03 Pin=R11-2
+Removed Pin From Net: NetName=P0.028 Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Added Pin To Net: NetName=NetR8_1 Pin=R10-2
+Added Pin To Net: NetName=NetR7_1 Pin=R11-2
+Added Pin To Net: NetName=NetR6_1 Pin=R12-2
