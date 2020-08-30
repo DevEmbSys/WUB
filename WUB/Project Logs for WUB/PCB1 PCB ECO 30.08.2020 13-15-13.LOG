@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GSM_PWRKEY Pin=D4-22
+Removed Pin From Net: NetName=GSM_PWR Pin=D4-23
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Change Component Designator: OldDesignator=C14 NewDesignator=C16
+Change Component Designator: OldDesignator=C15 NewDesignator=C17
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Change Component Designator: OldDesignator=C19 NewDesignator=C21
+Change Component Designator: OldDesignator=C20 NewDesignator=C22
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C24
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R4
+Change Component Designator: OldDesignator=X1 NewDesignator=X2
+Change Component Designator: OldDesignator=X2 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X4
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X1
+Added Component: Designator=C14(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(C0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GSM_PWR Pin=D4-5
+Added Pin To Net: NetName=GSM_PWRKEY Pin=D4-33
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC16_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC24_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR11_1
+Added Pin To Net: NetName=P0.09 Pin=C14-2
+Added Pin To Net: NetName=P0.09 Pin=D4-22
+Added Pin To Net: NetName=P0.09 Pin=R11-2
+Added Net: Name=P0.09
+Added Pin To Net: NetName=P0.10 Pin=C15-2
+Added Pin To Net: NetName=P0.10 Pin=D4-23
+Added Pin To Net: NetName=P0.10 Pin=R8-2
+Added Net: Name=P0.10
