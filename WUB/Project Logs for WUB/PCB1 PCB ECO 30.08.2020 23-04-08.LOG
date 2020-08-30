@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LDO_EN Pin=D6-12
+Removed Pin From Net: NetName=LDO_EN Pin=SB8-1
+Removed Pin From Net: NetName=LDO_EN Pin=SB12-1
+Added Component: Designator=X?(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LDO_EN_SET Pin=D6-12
+Added Pin To Net: NetName=LDO_EN_SET Pin=D10-4
+Added Pin To Net: NetName=LDO_EN_SET Pin=R22-1
+Added Pin To Net: NetName=LDO_EN_SET Pin=X?-1
+Added Net: Name=LDO_EN_SET
+Added Pin To Net: NetName=MEMS_INT2 Pin=D6-11
+Added Pin To Net: NetName=MEMS_INT2 Pin=SB12-1
+Added Net: Name=MEMS_INT2

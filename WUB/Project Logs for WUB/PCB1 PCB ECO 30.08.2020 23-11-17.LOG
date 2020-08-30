@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB8
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB11 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB12 NewDesignator=SB11
+Change Component Designator: OldDesignator=SB13 NewDesignator=SB12
+Change Component Designator: OldDesignator=SB14 NewDesignator=SB13
+Change Component Designator: OldDesignator=SB15 NewDesignator=SB14
+Change Component Designator: OldDesignator=SB16 NewDesignator=SB15
+Change Component Designator: OldDesignator=SB17 NewDesignator=SB16
+Change Component Designator: OldDesignator=SB18 NewDesignator=SB17
+Change Component Designator: OldDesignator=SB19 NewDesignator=SB18
+Change Component Designator: OldDesignator=SB20 NewDesignator=SB19
+Change Component Designator: OldDesignator=SB21 NewDesignator=SB20
+Change Component Designator: OldDesignator=SB22 NewDesignator=SB21
+Change Component Designator: OldDesignator=SB23 NewDesignator=SB22
+Change Component Designator: OldDesignator=X? NewDesignator=X20
+Added Component: Designator=X21(PinConnect2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=X21-1
