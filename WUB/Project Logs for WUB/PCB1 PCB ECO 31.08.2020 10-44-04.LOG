@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VBAT Pin=R20-1
+Removed Pin From Net: NetName=NetR20_2 Pin=R22-2
+Removed Pin From Net: NetName=NetR20_2 Pin=T2-1
+Removed Pin From Net: NetName=LDO_EN_SET Pin=X20-1
+Removed Pin From Net: NetName=GND Pin=X21-1
+Change Component Comment : Designator=R24 Old Comment=R New Comment=3M
+Change Component Comment : Designator=R20 Old Comment=R New Comment=150k
+Change Component Comment : Designator=R22 Old Comment=R New Comment=300k
+Added Component: Designator=R?(R0402)
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=VBAT Pin=X20-1
+Added Pin To Net: NetName=NetR20_2 Pin=X21-1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=R22-2
+Added Pin To Net: NetName=NetR20_1 Pin=R?-1
+Added Pin To Net: NetName=NetR20_1 Pin=T2-1
+Added Net: Name=NetR20_1
