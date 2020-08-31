@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=T1 NewDesignator=T4
+Change Component Designator: OldDesignator=T2 NewDesignator=T5
+Added Component: Designator=T1(testPin_08)
+Added Component: Designator=T2(testPin_08)
+Added Component: Designator=T3(testPin_08)
+Added Pin To Net: NetName=SWCLK Pin=T1-1
+Added Pin To Net: NetName=SWDIO Pin=T2-1
+Added Pin To Net: NetName=NetT3_1 Pin=T3-1
+Added Pin To Net: NetName=NetT3_1 Pin=X1-4
+Added Net: Name=NetT3_1

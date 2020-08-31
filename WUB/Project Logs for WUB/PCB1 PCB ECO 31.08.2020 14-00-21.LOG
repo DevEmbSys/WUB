@@ -1,0 +1,3 @@
+Added Component: Designator=DD1(BAS316)
+Added Pin To Net: NetName=VBAT Pin=DD1-1
+Added Pin To Net: NetName=PWM_OUT1 Pin=DD1-2
