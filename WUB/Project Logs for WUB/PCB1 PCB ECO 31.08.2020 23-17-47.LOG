@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GSM_PWR Pin=R1-2
+Removed Pin From Net: NetName=NetC9_2 Pin=R15-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R16-1
+Removed Pin From Net: NetName=NetC12_2 Pin=SB9-2
+Removed Pin From Net: NetName=NetC9_2 Pin=SB10-2
+Removed Pin From Net: NetName=GSM_PWR Pin=T1-1
+Removed Pin From Net: NetName=NetC9_2 Pin=VT2-1
+Removed Pin From Net: NetName=NetC12_2 Pin=VT3-1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R19
+Change Component Designator: OldDesignator=R17 NewDesignator=R20
+Added Component: Designator=R2(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(R0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GSM_PWR Pin=R2-1
+Added Pin To Net: NetName=NetC9_2 Pin=R16-2
+Added Pin To Net: NetName=NetC12_2 Pin=R17-2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR1_2 Pin=T1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R18-1
+Added Pin To Net: NetName=NetR16_1 Pin=SB10-2
+Added Pin To Net: NetName=NetR16_1 Pin=VT2-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=R19-1
+Added Pin To Net: NetName=NetR17_1 Pin=SB9-2
+Added Pin To Net: NetName=NetR17_1 Pin=VT3-1
+Added Net: Name=NetR17_1
