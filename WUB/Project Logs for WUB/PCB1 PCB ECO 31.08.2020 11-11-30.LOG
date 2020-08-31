@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=LDO_EN_SET Pin=D8-16
+Added Pin To Net: NetName=LDO_EN_SET Pin=R21-1
+Added Pin To Net: NetName=LDO_EN_SET Pin=R23-2

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=C13 NewDesignator=C14
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=X16 NewDesignator=X17
+Change Component Designator: OldDesignator=X17 NewDesignator=X19
+Change Component Designator: OldDesignator=X18 NewDesignator=X20
+Change Component Designator: OldDesignator=X19 NewDesignator=X21
+Change Component Designator: OldDesignator=X20 NewDesignator=X16
+Change Component Designator: OldDesignator=X21 NewDesignator=X18
+Added Component: Designator=C13(C0402)
+Added Pin To Net: NetName=GND Pin=C13-1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC14_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=D8-21
+Added Net: Name=NetC13_2
