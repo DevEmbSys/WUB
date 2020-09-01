@@ -1,0 +1,24 @@
+Added Component: Designator=X1(PINCONNECT3)
+Added Component: Designator=X2(PINCONNECT3)
+Added Component: Designator=X3(PINCONNECT3)
+Added Component: Designator=X4(PINCONNECT3)
+Added Component: Designator=X5(PINCONNECT3)
+Added Component: Designator=X6(PINCONNECT3)
+Added Component: Designator=X7(PINCONNECT3)
+Added Component: Designator=X8(PINCONNECT3)
+Added Component: Designator=X9(PINCONNECT3)
+Added Component: Designator=X10(PINCONNECT3)
+Added Component: Designator=X11(PINCONNECT3)
+Added Component: Designator=X12(PINCONNECT3)
+Added Pin To Net: NetName=NetR3_1 Pin=X1-1
+Added Pin To Net: NetName=NetSB4_1 Pin=X2-1
+Added Pin To Net: NetName=NetSB3_1 Pin=X3-1
+Added Pin To Net: NetName=NetSB5_1 Pin=X4-1
+Added Pin To Net: NetName=NetSB6_1 Pin=X5-1
+Added Pin To Net: NetName=GND Pin=X6-1
+Added Pin To Net: NetName=VBAT Pin=X7-1
+Added Pin To Net: NetName=3V3 Pin=X8-1
+Added Pin To Net: NetName=3V3 Pin=X9-1
+Added Pin To Net: NetName=GND Pin=X10-1
+Added Pin To Net: NetName=GND Pin=X11-1
+Added Pin To Net: NetName=NetD4_19 Pin=X12-1
