@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PCB1.GBR   04.03.2020  13:27:45
+Gerber File Extension Report For: PCB1.GBR   01.09.2020  7:33:25
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,8 @@ Gerber File Extension Report For: PCB1.GBR   04.03.2020  13:27:45
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
 .GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
