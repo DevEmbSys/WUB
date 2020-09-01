@@ -57,7 +57,7 @@ Generating : Signal Layer 1
 
 
 Used DCodes :
-    D32
+    D33
     D34
     D35
     D40
@@ -76,7 +76,7 @@ Generating : Signal Layer 2
 
 
 Used DCodes :
-    D32
+    D33
     D34
     D35
     D40
@@ -94,16 +94,16 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D31
+    D10
+    D11
+    D12
+    D25
+    D26
     D32
+    D33
     D34
     D35
     D36
-    D38
     D40
     D41
     D42
@@ -137,7 +137,7 @@ Generating : Top Overlay
 
 Used DCodes :
     D32
-    D38
+    D33
     D62
     D63
     D64
@@ -226,9 +226,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D70
-    D71
-    D82
+    D66
+    D67
+    D68
     D83
     D84
     D85
@@ -264,11 +264,11 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D31
+    D10
+    D11
+    D12
+    D25
+    D26
     D44
     D45
     D46
@@ -298,7 +298,7 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D32
-    D38
+    D33
     D62
     D63
     D64
@@ -313,6 +313,6 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D38
+    D32
 *************************************************************
 
