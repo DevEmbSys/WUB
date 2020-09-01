@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=NetR9_2 Pin=X3-1
+Removed Pin From Net: NetName=NetR9_2 Pin=X3-1
+Removed Pin From Net: NetName=NetSB8_1 Pin=X4-1
+Removed Pin From Net: NetName=NetSB8_1 Pin=X4-1
+Removed Pin From Net: NetName=NetR10_2 Pin=X5-1
+Removed Pin From Net: NetName=NetR10_2 Pin=X5-1
+Removed Pin From Net: NetName=NetR11_2 Pin=X7-1
+Removed Pin From Net: NetName=NetR11_2 Pin=X7-1
+Removed Pin From Net: NetName=NetR14_2 Pin=X8-1
+Removed Pin From Net: NetName=NetR14_2 Pin=X8-1
+Removed Pin From Net: NetName=GND Pin=X9-1
+Removed Pin From Net: NetName=GND Pin=X9-1
+Removed Pin From Net: NetName=VBAT Pin=X10-1
+Removed Pin From Net: NetName=VBAT Pin=X10-1
+Removed Pin From Net: NetName=3V3 Pin=X11-1
+Removed Pin From Net: NetName=3V3 Pin=X11-1
+Removed Pin From Net: NetName=GND Pin=X13-1
+Removed Pin From Net: NetName=GND Pin=X13-1
+Removed Pin From Net: NetName=NetD4_13 Pin=X15-1
+Removed Pin From Net: NetName=NetD4_13 Pin=X15-1
+Removed Pin From Net: NetName=NetD4_12 Pin=X16-1
+Removed Pin From Net: NetName=NetD4_12 Pin=X16-1
+Removed Pin From Net: NetName=MEMS_INT1 Pin=X17-1
+Removed Pin From Net: NetName=MEMS_INT1 Pin=X17-1
+Removed Pin From Net: NetName=VBUS Pin=X18-1
+Removed Pin From Net: NetName=VBUS Pin=X18-1
+Removed Pin From Net: NetName=VDDH Pin=X19-1
+Removed Pin From Net: NetName=VDDH Pin=X19-1
+Change Component Footprint: Designator=X3 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X4 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X5 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X6 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X7 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X8 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X9 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X10 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X11 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X13 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X15 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X16 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X17 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X18 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Footprint: Designator=X19 Old Footprint=PinConnect New Footprint=PINCONNECT3
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=SB8 NewDesignator=SB9
+Change Component Designator: OldDesignator=SB9 NewDesignator=SB10
+Change Component Designator: OldDesignator=SB10 NewDesignator=SB8
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Added Component: Designator=X1(PINCONNECT3)
+Added Component: Designator=X20(PINCONNECT3)
+Added Component: Designator=X21(PINCONNECT3)
+Added Component: Designator=X22(PINCONNECT3)
+Added Pin To Net: NetName=NetR9_2 Pin=X4-1
+Added Pin To Net: NetName=NetSB8_1 Pin=X5-1
+Added Pin To Net: NetName=NetR10_2 Pin=X6-1
+Added Pin To Net: NetName=NetR11_2 Pin=X8-1
+Added Pin To Net: NetName=NetR14_2 Pin=X9-1
+Added Pin To Net: NetName=GND Pin=X10-1
+Added Pin To Net: NetName=VBAT Pin=X11-1
+Added Pin To Net: NetName=3V3 Pin=X13-1
+Added Pin To Net: NetName=GND Pin=X15-1
+Added Pin To Net: NetName=NetD4_13 Pin=X16-1
+Added Pin To Net: NetName=NetD4_12 Pin=X17-1
+Added Pin To Net: NetName=MEMS_INT1 Pin=X18-1
+Added Pin To Net: NetName=VBUS Pin=X21-1
+Added Pin To Net: NetName=VDDH Pin=X22-1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetSB8_2 New Net Name=NetSB9_2
+Added Pin To Net: NetName=NetD4_19 Pin=D4-19
+Added Pin To Net: NetName=NetD4_19 Pin=X19-1
+Added Net: Name=NetD4_19
+Added Pin To Net: NetName=NetD4_20 Pin=D4-20
+Added Pin To Net: NetName=NetD4_20 Pin=X20-1
+Added Net: Name=NetD4_20
+Added Pin To Net: NetName=NetSB6_1 Pin=SB6-1
+Added Pin To Net: NetName=NetSB6_1 Pin=SB7-1
+Added Pin To Net: NetName=NetSB6_1 Pin=X1-1
+Added Net: Name=NetSB6_1
+Added Pin To Net: NetName=NetSB10_1 Pin=SB10-1
+Added Pin To Net: NetName=NetSB10_1 Pin=SB11-1
+Added Pin To Net: NetName=NetSB10_1 Pin=X7-1
+Added Net: Name=NetSB10_1

@@ -1,0 +1,4 @@
+Added Component: Designator=X12(PINCONNECT3)
+Added Component: Designator=X14(PINCONNECT3)
+Added Pin To Net: NetName=3V3 Pin=X12-1
+Added Pin To Net: NetName=GND Pin=X14-1
