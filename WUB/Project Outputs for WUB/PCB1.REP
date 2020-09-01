@@ -57,7 +57,7 @@ Generating : Signal Layer 1
 
 
 Used DCodes :
-    D32
+    D33
     D34
     D35
     D40
@@ -76,7 +76,7 @@ Generating : Signal Layer 2
 
 
 Used DCodes :
-    D32
+    D33
     D34
     D35
     D40
@@ -313,6 +313,6 @@ Generating : Mechanical 1
 
 
 Used DCodes :
-    D33
+    D32
 *************************************************************
 
