@@ -3,5 +3,5 @@ RuleKind=Clearance|RuleName=Clearance_GND_ANT|Scope=Board|Minimum=5.91
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.33
 RuleKind=Width|RuleName=Width_0_5_Power|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.54
 RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=3.94
