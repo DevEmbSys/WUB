@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   01.09.2020  10:09:32
+NCDrill File Report For: PCB1.PcbDoc   01.09.2020  14:08:55
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,8 +9,8 @@ EIA File   : PCB1.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.15mm (6mil)                                             Round             135       PTH        255.30mm (10.05inch)
-T2      0.2mm (8mil)                                              Round             123       PTH        252.37mm (9.94inch)
+T1      0.15mm (6mil)                                             Round             135       PTH        248.07mm (9.77inch)
+T2      0.2mm (8mil)                                              Round             123       PTH        254.35mm (10.01inch)
 T3      0.5mm (20mil)                                             Slot              2         PTH        15.33mm (0.60inch)
 T4      0.55mm (22mil)                                            Slot              2         PTH        10.90mm (0.43inch)
 T5      0.6mm (24mil)                                             Round             20        PTH        64.50mm (2.54inch)
@@ -18,4 +18,4 @@ T6      2.2mm (87mil)                                             Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              284
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
