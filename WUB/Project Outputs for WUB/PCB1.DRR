@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB1.PcbDoc   01.09.2020  19:26:49
+NCDrill File Report For: PCB1.PcbDoc   02.09.2020  7:33:29
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,11 +9,11 @@ EIA File   : PCB1.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             192       PTH        0.00mm (0.00inch)
-T2      0.5mm (20mil)                                             Slot              2         PTH        0.00mm (0.00inch)
-T3      0.55mm (22mil)                                            Slot              2         PTH        0.00mm (0.00inch)
-T4      0.6mm (24mil)                                             Round             20        PTH        0.00mm (0.00inch)
-T5      2.2mm (87mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T1      0.2mm (8mil)                                              Round             192       PTH        373.66mm (14.71inch)
+T2      0.5mm (20mil)                                             Slot              2         PTH        15.33mm (0.60inch)
+T3      0.55mm (22mil)                                            Slot              2         PTH        10.90mm (0.43inch)
+T4      0.6mm (24mil)                                             Round             20        PTH        64.50mm (2.54inch)
+T5      2.2mm (87mil)                                             Round             2         PTH        34.83mm (1.37inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              218
 
